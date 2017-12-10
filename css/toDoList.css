@@ -1,0 +1,8 @@
+.task{
+    display: flex;
+    width: 100%;
+    background: #e7e5e5;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+}
